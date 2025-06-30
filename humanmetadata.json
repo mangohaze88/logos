@@ -1,0 +1,11 @@
+{
+  "name": "Human 300",
+  "symbol": "HUMAN",
+  "description": "Optional description of your token.",
+  "image": "https://github.com/mangohaze88/logos/blob/main/HUMANLOGO.png",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
