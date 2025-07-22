@@ -14,8 +14,8 @@
     "category": "image"
   },
   "extensions": {
-    "website": "htpps:humantoken.win",
-    "twitter": "htpps:x.com/humantoken",
+    "website": "https:humantoken.win",
+    "twitter": "https:x.com/humantoken",
     "telegram": "t.me/humantoken300"
   }
 }
